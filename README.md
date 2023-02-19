@@ -4,13 +4,6 @@ Projects
 
 | No. | Project | Type | Description |
 | - | - | - | - |
-| 1 | [Good Vibe]("") | MVVM | |
+| 3 | [Good Vibe]("") | MVVM | |
 | 2 | [GGomVoca]("") | MVVM | |
-| 3 | [Place Sound]("") | Prototype | |
-
-Notes
-
-| No. | Date | Contents |
-| - | - | - |
-| 1 | | []() | 
-| 2 | | []() | 
+| 1 | [Place Sound]("") | Prototype | |
