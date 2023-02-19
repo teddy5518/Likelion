@@ -1,13 +1,13 @@
 # Likelion App School
 
-###Projects
+Projects
 
 |No.|Project|Type|Description|
 |-|-|-|-|
 |1|[Good Vibe]("")|MVVM||
 |2|[Place Sound]("")|Prototype||
 
-###Notes
+Notes
 
 | Date | Contents |
 |-|-|
