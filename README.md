@@ -1,10 +1,6 @@
-# Likelion App School
+### Likelion App School
 
-Project
+### Project
+- [국밥부장관](https://github.com/GoodVibeMinister/GukbapMinister)
 
-| No. | Project | Type | Description |
-| - | - | - | - |
-| 2 | [Good Vibe]("https://github.com/GoodVibeMinister/GukbapMinister") | MVVM | |
-| 1 | [Place Sound]("") | Prototype | |
-
-Interview
+### Interview
