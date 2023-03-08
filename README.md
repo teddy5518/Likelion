@@ -1,9 +1,12 @@
 ### Likelion App School
 
-- Hello, World!
+- Swift, SwiftUI, HIG, Git, Github
 
 ### Project
 
-- [국밥부장관](https://github.com/GoodVibeMinister/GukbapMinister)
+- [GukbapMinister](https://github.com/GoodVibeMinister/GukbapMinister)
+- []()
 
 ### Interview
+
+- []()
