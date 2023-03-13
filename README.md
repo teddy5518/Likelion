@@ -2,10 +2,9 @@
 
 Sep 2022 ~ Feb 2023
 
-- Swift, SwiftUI, HIG, Git, Github
-
-  - Student of a fully-immersive 23 week bootcamp designed to produce iOS developers
-  - Trained to maintain ability to develop an app from scratch, front-end to the back-end and finally to deployment
+- Studied Swift, SwiftUI, HIG, Git, Github
+- Student of a fully-immersive 23 week bootcamp designed to produce iOS developers
+- Trained to maintain ability to develop an app from scratch, front-end to the back-end and finally to deployment
 
 ### Project
 
@@ -16,8 +15,4 @@ and more...
 
 ### Interview
 
-- Coming Soon
-
-### Note
-
-- Coming Soon
+- Coming Soon (4/1)
